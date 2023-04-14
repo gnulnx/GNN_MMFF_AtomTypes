@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+networkx
+torch
+torchvision
+torch-scatter
+torch-sparse
+torch-geometric
+torchviz
+tensorboard
+torch-tb-profiler
+click
+termcolor
+rdkit
